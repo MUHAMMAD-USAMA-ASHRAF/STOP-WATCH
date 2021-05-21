@@ -1,0 +1,93 @@
+body {
+    background-image: 100%;
+    position: absolute;
+}
+
+
+/* .bo {
+    justify-content: center;
+    size: 250ch; 
+} */
+
+.qwe {
+    display: flex;
+    /* padding-right: -45px; */
+    /* position: relative; */
+    justify-content: center;
+    background-color: cornflowerblue;
+    width: 1200px;
+    height: 350px;
+    border-style: solid;
+    border-color: aliceblue;
+    padding-left: 5%;
+    padding-right: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.four {
+    border-style: double;
+    border-color: rgb(143, 95, 187);
+    width: 250px;
+    height: 175px;
+    padding-left: 3%;
+    font-size: 18ch;
+    position: relative;
+    /* padding-top: 7px;
+    padding-bottom: 7px; */
+}
+
+.one {
+    border-style: double;
+    border-color: chartreuse;
+    padding-left: 3%;
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+.two {
+    border-style: double;
+    border-color: rgb(191, 204, 12);
+    padding-left: 3%;
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+.three {
+    padding-left: 3%;
+    border-style: double;
+    border-color: rgb(192, 27, 27);
+    width: 250px;
+    height: 175px;
+    font-size: 18ch;
+}
+
+
+/* BUTTON */
+
+.asd {
+    /* padding-left: %; */
+    justify-content: center;
+    padding-top: 2%;
+    display: flex;
+}
+
+.bone {
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+}
+
+.tone {
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+}
+
+.thone {
+    justify-content: center;
+    width: 150px;
+    font-size: 3ch;
+}
